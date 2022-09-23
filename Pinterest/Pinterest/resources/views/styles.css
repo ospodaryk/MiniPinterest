@@ -1,0 +1,68 @@
+.block{
+    padding: 150px;
+    background: #EFEFEF;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    right: 0%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    align-content: center;
+    text-align: center;
+    font-family: Georgia;
+}
+h1{
+    font-family: Georgia;
+    align-content: center;
+    text-align: center;
+}
+.pw{
+    font-family: Georgia;
+    align-content: center;
+    text-align: center;
+    font-size: 0px;
+    color:white;
+
+}
+img{
+    Position:relative;
+    margin: 20px;
+}
+
+.sth{
+    align-content: center;
+    text-align: center;
+    font-family: Georgia;
+    font-size: 30px;
+    color: white;
+    align-content: center;
+    text-align: center;
+}
+form{
+    font-family: Georgia;
+    font-size: 30px;
+
+}
+.formst{
+    font-family: Georgia;
+    text-align: center;
+    /*margin: auto;*/
+    font-size: 30px;
+    /*display: table-cell;*/
+    vertical-align: middle;
+    align-content: center;
+}
+.btnnew{
+    font-family: Georgia;
+
+    padding: 30px 30px;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    border-radius: 5px;
+    vertical-align: middle;
+    background-color: lightskyblue;
+    margin: 20px;
+    border: 2px solid black;
+}

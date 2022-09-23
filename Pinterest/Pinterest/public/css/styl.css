@@ -1,0 +1,127 @@
+.block {
+    padding: 150px;
+    background: #EFEFEF;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    right: 0%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    align-content: center;
+    text-align: center;
+    font-family: Georgia;
+}
+.reg {
+    padding: 150px;
+    background: #EFEFEF;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    right: 0%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    /*align-content: center;*/
+    /*text-align: center;*/
+    font-family: Georgia;
+}
+.wh {
+    font-size: 0px;
+    color: white;
+
+}
+
+.txt {
+    height: 70px;
+    width: 400px;
+    position: fixed;
+    left: 32%;
+
+}
+
+h1 {
+    font-family: Georgia;
+    align-content: center;
+    text-align: center;
+}
+
+.pw {
+
+    align-content: center;
+    text-align: center;
+    color: white;
+
+}
+
+
+img {
+    Position: relative;
+    margin: 20px;
+}
+
+.butts {
+    background: lightskyblue;
+    margin: 10px;
+    text-align: center;
+    position: relative;
+    display: block;
+    left: 49%;
+}
+
+.loca {
+    margin: 10px;
+    height: 70px;
+    position: center;
+    width: 420px;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    align-content: center;
+    font-family: Georgia;
+
+}
+
+.inst {
+    height: 70px;
+    width: 420px;
+    background: #EFEFEF;
+
+    position: relative;
+    display: block;
+    left: 31%;
+}
+
+.home {
+    align-content: center;
+    text-align: center;
+    font-family: Georgia;
+    font-size: 30px;
+    color: white;
+    align-content: center;
+    text-align: center;
+}
+
+form {
+    font-family: Georgia;
+    font-size: 30px;
+}
+
+h4 {
+    font-family: Georgia;
+    align-content: center;
+}
+
+.btnnew {
+    font-family: Georgia;
+
+    padding: 30px 30px;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    border-radius: 5px;
+    vertical-align: middle;
+    background-color: lightskyblue;
+    margin: 20px;
+    border: 2px solid black;
+}

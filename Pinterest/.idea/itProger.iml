@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/itproger/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/itproger/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/fruitcake/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/scrivo/highlight.php" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/polyfill-php70" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/itproger/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
